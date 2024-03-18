@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btrose2020
-- 👀 I’m interested in learning HTML5, CSS, and JavaScipt so I can build a customizable iOS app to track my workouts.
-- 🌱 I’m currently learning the basics of WebDev.
+- 👀 I’m in the process of learning to build a customizable iOS app to track my workouts.
+- 🌱 I’m currently a computer science student at Auburn University. 
 
 
 
